@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Illegal Zone 1" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [0.2, 0.2],
+          [0.8, 0.2],
+          [0.8, 0.8],
+          [0.2, 0.8],
+          [0.2, 0.2]
+        ]]
+      }
+    }
+  ]
+}
